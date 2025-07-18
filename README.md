@@ -44,7 +44,8 @@
 
 # 
 
-# !\[Ripple Carry Adder](./4-bit-Ripple-Carry-Adder.png)
+# <img src="./4-bit-Ripple-Carry-Adder.png" alt="Ripple Carry Adder Diagram" width="500"/>
+
 
 
 
