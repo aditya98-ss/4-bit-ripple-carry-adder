@@ -19,7 +19,6 @@ Simulate using any Verilog simulator (Vivado, ModelSim, etc.). Set `tb_ripple_ca
 - Verilog HDL
 - Xilinx Vivado (for synthesis and RTL simulation)
 
-## 📷 Diagram
 ## 🖼 Block Diagram
 
 
