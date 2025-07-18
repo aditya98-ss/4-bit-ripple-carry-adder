@@ -20,5 +20,8 @@ Simulate using any Verilog simulator (Vivado, ModelSim, etc.). Set `tb_ripple_ca
 - Xilinx Vivado (for synthesis and RTL simulation)
 
 ## 📷 Diagram
+## 🖼 Block Diagram
+
+
 
 ![Ripple Carry Adder](./4-bit-Ripple-Carry-Adder.png)
